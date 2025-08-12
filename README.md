@@ -1,6 +1,6 @@
 # League of Legends Match Analzyer
 
-A data pipeline that processes up to one year of a League of Legends player's ranked match history, providing a detailed breakdown of performance on a champion-by-champion basis.
+A data pipeline that transforms one year of ranked match history into champion-by-champion performance analytics, enabling deeper player performance evaluation.
 
 ## Features
 
